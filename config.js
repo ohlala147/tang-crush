@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Chào bạn Thanh Phương !',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao Phương cứ đi nhầm đường
-    Lạc vào tim Long lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Chào bạn Ngọc Trinh nháaaa !',
+    introDesc: `Trúc xinh trúc đứng đầu đình
+    Trinh xinh Trinh đứng 1 mình vẫn xinh
+    Trinh ơi ta nói Trinh này
+    Làm bài cho tốt đạt được điểm cao`,
     btnIntro: 'hihi',
-    title: 'Phải chăng Phương đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng Phương đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anhhh <33',
+    title: 'Phải chăng Trinh đã học hết bài rồi nhỉ 😙',
+    desc: 'Phải chăng Trinh đã nghĩ mình sẽ không vượt qua được kì thi này hmm ',
+    btnYes: 'Vẫn cứ là cố gắng hết mình nhá',
     btnNo: 'Không, bạn à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao Phương lại loay hoay trong tâm trí anhhh <3',
-    btnReply: 'Gửi cho anhh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'anh biết mà 🥰.',
-    messDesc: 'Anh thương em lắm đó,tình yêu của anh,anh sẽ không để em lo lắng hay buồn bực gì hết,sẽ là chỗ dựa cho em những khi em mệt mỏi ạ.',
-    btnAccept: 'Thương anhhhh <3',
+    question:'Trên thế giới hơn 7 tỉ người nhưng đối với tui Trinh là 1 người đặc biệt đóoo',
+    btnReply: 'Gửi cho bà Longg <3',
+    reply: 'Thi thì qua môn không thi thì cũng qua môn <3',
+    mess: 'kkkkk 🥰.',
+    messDesc: 'Chúc bạn Trinh ngày mai tự tin,quyết tâm thi thật tốt nha,tự tin vào chính mình,đây là món quà tui dành tặng bà nè.Nên vì vậy phải cố gắng hết mình nhá,tin bà sẽ làm được.',
+    btnAccept: 'Trinh biết rồi ạ <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
